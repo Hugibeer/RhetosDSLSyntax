@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+SqlQueryable ${1:viewName}
+"
+	${2:SQL}
+"
+{
+	${3:fields}
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>sq</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.rhe</scope>
+</snippet>

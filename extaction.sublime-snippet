@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+ExtAction ${1:actionName} '${3:className}, ${2:assemblyName}' '${1:actionName}'
+{
+	$0
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>extact</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.rhe</scope>
+</snippet>
