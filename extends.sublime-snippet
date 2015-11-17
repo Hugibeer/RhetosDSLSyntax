@@ -3,6 +3,7 @@
 Extends ${1:Module}.${2:Object};
 $0
 ]]></content>
+	<description>Extends</description>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>ext</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->

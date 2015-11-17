@@ -1,11 +1,11 @@
 <snippet>
 	<content><![CDATA[
-Date ${1:property};
-$0
+ComposableFilterBy ${1:Parameter}
+    '(items, repository, parameter) => $0';
 ]]></content>
-	<description>Date</description>
+	<description>ComposableFilterBy inside data structure</description>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>d</tabTrigger>
+	<tabTrigger>composablefilterby</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.rhe</scope>
 </snippet>
