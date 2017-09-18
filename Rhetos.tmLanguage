@@ -21,7 +21,7 @@
 			<key>name</key>
 			<string>constant.language.Rhetos</string>
 		</dict>
-		<dict>
+		<!-- <dict>
 			<key>begin</key>
 			<string>'</string>
 			<key>patterns</key>
@@ -33,7 +33,7 @@
 			</array>
 			<key>end</key>
 			<string>'</string>
-		</dict>
+		</dict> -->
 		<dict>
 			<key>begin</key>
 			<string>"</string>
